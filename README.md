@@ -158,4 +158,4 @@ Steps:
 * Vite
 * Open-source community
 
-Developed By Ayush Kumar Singh You Can Upgrade this Page or use as you wish 
+Developed By Ayush Kumar Singh You Can Upgrade this Page or use as you wish Dont remove the credits
